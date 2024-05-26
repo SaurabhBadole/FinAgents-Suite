@@ -1,0 +1,14 @@
+crewai
+langchain
+streamlit
+langchain_nvidia_ai_endpoints
+python-dotenv
+pdfkit
+unstructured
+numpy
+pandas
+scikit-learn
+xgboost==2.0.3
+openai
+openpyxl
+yfinance

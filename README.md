@@ -4,7 +4,8 @@ Welcome to FinAgents Suite, your ultimate financial decision-making platform. Ou
 
 ## Overview
 
-The FinAgents Suite is designed to provide comprehensive Financial Analysis and decision-making capabilities through various modules:![FinAgents_Suite](https://github.com/SaurabhBadole/FinAgents-Suite/assets/132877393/eff38099-4274-4a3b-b1ba-c748a8bb7abf)
+The FinAgents Suite is designed to provide comprehensive Financial Analysis and decision-making capabilities through various modules:![FinAgents_Suite](https://github.com/SaurabhBadole/FinAgents-Suite/assets/132877393/e442eeb3-a20e-4c2d-ae29-250cb0d1d062)
+
 
 
 ### MultiAgent Finance Consultant🔍
@@ -21,12 +22,15 @@ Predict the Earnings Per Share (EPS) for banks using key financial indicators. T
 
 ## Features
 
-- **MultiAgent Finance Consultant:** Strategic Investment planning with a team of multi-agents combining the expertise of a Research Analyst, Financial Analyst, and Investment Advisor.![App_interface](https://github.com/SaurabhBadole/FinAgents-Suite/assets/132877393/1f6b12f5-fa70-4a3a-b13a-c3f93e5d530d)
-  - **FinAgents Conversations:** these are the interactions where multiple autonomous agents (which could be software agents, robots, or virtual characters) communicate and collaborate to achieve specific goals.  ![FinAgents_conversation](https://github.com/SaurabhBadole/FinAgents-Suite/assets/132877393/837b36a9-97f7-45a2-9180-dfea68a08e09)
+- **MultiAgent Finance Consultant:** Strategic Investment planning with a team of multi-agents combining the expertise of a Research Analyst, Financial Analyst, and Investment Advisor.![App_interface](https://github.com/SaurabhBadole/FinAgents-Suite/assets/132877393/2c27e7f5-5165-4796-a223-420ab2f11b9c)
 
-- **AI-Driven Predictive Credit Risk Engine:** Assess and manage credit risk with advanced ML algorithms.![Credit_Risk](https://github.com/SaurabhBadole/FinAgents-Suite/assets/132877393/f8ebd908-b60f-4fc2-b7b9-98d349b6f331)
+  - **FinAgents Conversations:** these are the interactions where multiple autonomous agents (which could be software agents, robots, or virtual characters) communicate and collaborate to achieve specific goals.![FinAgents_conversation](https://github.com/SaurabhBadole/FinAgents-Suite/assets/132877393/b25d215d-b75d-4f3b-875a-c3fb56244307)
 
-- **EPS Forecasting:** Predict EPS for banks using financial indicators and obtain an analysis and synthesis of the data.![EPS_Forecaster](https://github.com/SaurabhBadole/FinAgents-Suite/assets/132877393/48746f7d-9a95-49e0-ae71-a6616be0cbdd)
+
+- **AI-Driven Predictive Credit Risk Engine:** Assess and manage credit risk with advanced ML algorithms.![Credit_Risk](https://github.com/SaurabhBadole/FinAgents-Suite/assets/132877393/51484eee-19d4-45c1-8a6a-8ca1a8d69715)
+
+- **EPS Forecasting:** Predict EPS for banks using financial indicators and obtain an analysis and synthesis of the data.![EPS_Forecaster](https://github.com/SaurabhBadole/FinAgents-Suite/assets/132877393/0aefcfd5-19ad-46ec-8517-05735037b5c8)
+
 
 
 ## Getting Started

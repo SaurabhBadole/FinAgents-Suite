@@ -1,0 +1,11 @@
+services:
+  finagent_app:
+    build:
+      context: .
+    ports:
+      - "8502:8501"
+    env_file:
+      - .env
+    volumes:
+      - ./:/app
+    command: ["streamlit", "run", "FinAgents_Suite.py"]

@@ -12,3 +12,6 @@ xgboost==2.0.3
 openai
 openpyxl
 yfinance
+embedchain
+langchain-community
+psutil

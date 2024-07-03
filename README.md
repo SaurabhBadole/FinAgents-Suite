@@ -183,3 +183,4 @@ Contributions are welcome! Please extend your contributions by forking the repos
 ## Contact
 For any queries or further information, please contact us at [Saurabh Khushal Badole](saurabhbadole25.98@gmail.com)
 
+For access to the private AWS ECR and Docker repository for project demo/trial, please reach out via same contact window above.

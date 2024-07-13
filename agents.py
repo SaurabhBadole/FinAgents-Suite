@@ -10,7 +10,7 @@ from langchain_community.tools import YahooFinanceNewsTool
 from dotenv import load_dotenv
 load_dotenv()
 
-## call the gemini models
+## call the LLM model
 
 llm=ChatNVIDIA(model="meta/llama3-70b-instruct",
                            verbose=True,
